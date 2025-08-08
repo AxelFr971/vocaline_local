@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2025-08-07T00:14:05.021211",
+    "feedback": "Excellente application ! Très utile pour les chauffeurs routiers. L'interface est simple et efficace.",
+    "timestamp": "2025-08-07T04:14:05.015Z",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+  },
+  {
+    "id": "2025-08-07T00:23:40.389975",
+    "feedback": "Test d'envoi d'email : cette application est vraiment géniale pour les chauffeurs routiers !",
+    "timestamp": "2025-08-07T04:23:40.383Z",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+  }
+]
